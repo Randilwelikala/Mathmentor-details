@@ -58,20 +58,37 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ## Screenshots
 
-### 1. Admin Dashboard  
+### 1. Admin 
+![Admin Login](./screenshots/admin-login.png)
 ![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Signup Request Page](./screenshots/admin-signup-request.png)
+![Admin Approved Students Page](./screenshots/admin-approved-student.png)
+![Admin Student Profile Full Page](./screenshots/admin-student-profile-full.png)
+![Admin Student Profile Student Details Section](./screenshots/admin-student-profile-details.png)
+![Admin Student Profile Mark Overview Section](./screenshots/admin-student-profile-marks.png)
 
-### 2. Student Signup Requests  
-![Signup Requests ](./screenshots/signup-requests.png)
+![Admin Student Profile Add Mark,Fees,Attendance Section](./screenshots/admin-student-profile-add.png)
+![Admin Student Profile Attendance and fees Overview Section](./screenshots/admin-student-profile-fees-marks.png)
+![Admin All Student's Marks page](./screenshots/admin-all-student-marks.png)
+![Admin All Student's Attendance page](./screenshots/admin-all-student-attendance.png)
+![Admin All Student's Fees page](./screenshots/admin-all-student-fees.png)
+![Admin All Student's ID Card page](./screenshots/admin-all-student-id-cards.png)
+![Admin QR Scan page](./screenshots/admin-qr-scan-page.png)
 
-### 3. Attendance QR Scanner  
-![QR Scanner ](./screenshots/qr-scanner.png)
+### 2. Student 
+![Student Signup Requests Page ](./screenshots/signup-requests.png)
+![Student Login Page ](./screenshots/login-page.png)
+![Student Profile View Full Page ](./screenshots/student-profile-full.png)
+![Student profile View Details Section ](./screenshots/student-details-section.png)
+![Student profile View Marks Overview Section](./screenshots/student-marks-section.png)
+![Student profile View Attendance Section](./screenshots/student-attendance-section.png)
+![Student profile View Fees Section](./screenshots/strudent-fees-section.png)
 
-### 4. Student Performance Charts  
-![Performance Charts](./screenshots/performance-charts.png)
 
-### 5. Student Dashboard  
-![Student Dashboard](./screenshots/student-dashboard.png)
+### 3. Student Performance Charts  
+![Performance Charts Marks](./screenshots/performance-charts-marks.png)
+![Performance Charts Attendance](./screenshots/performance-charts-attendance.png)
+![Performance Charts Fees](./screenshots/performance-charts-fees.png)
 
 ---
 
