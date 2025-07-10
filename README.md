@@ -47,8 +47,6 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ## Architecture Overview
 
-![Architecture Diagram Placeholder](./screenshots/architecture-diagram.png)
-
 - **Frontend:** React SPA consuming RESTful APIs, featuring protected routes and role-based access.
 - **Backend:** Express API server handling business logic, authentication, and data persistence.
 - **Database:** MongoDB Atlas collections for students, attendance, marks, fees, and signup requests.
@@ -61,19 +59,19 @@ This project demonstrates my skills in modern web development, authentication fl
 ## Screenshots
 
 ### 1. Admin Dashboard  
-![Admin Dashboard Placeholder](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboard.png)
 
 ### 2. Student Signup Requests  
-![Signup Requests Placeholder](./screenshots/signup-requests.png)
+![Signup Requests ](./screenshots/signup-requests.png)
 
 ### 3. Attendance QR Scanner  
-![QR Scanner Placeholder](./screenshots/qr-scanner.png)
+![QR Scanner ](./screenshots/qr-scanner.png)
 
 ### 4. Student Performance Charts  
-![Performance Charts Placeholder](./screenshots/performance-charts.png)
+![Performance Charts](./screenshots/performance-charts.png)
 
 ### 5. Student Dashboard  
-![Student Dashboard Placeholder](./screenshots/student-dashboard.png)
+![Student Dashboard](./screenshots/student-dashboard.png)
 
 ---
 
@@ -85,16 +83,6 @@ This project demonstrates my skills in modern web development, authentication fl
 - **Role Expansion:** Add teacher role for class assistants with limited permissions.
 - **Analytics Enhancements:** Advanced filtering, predictive analytics on student performance.
 - **Localization:** Support for multiple languages based on user preferences.
-
----
-
-## Repository Structure (Private Repo)
-
-- `/client` – React frontend source code
-- `/server` – Express.js backend API code
-- `/public/uploads` – QR codes and static assets
-- `.env` – Environment variables (excluded from public repo)
-- `README.md` – Project documentation (this file)
 
 ---
 
@@ -122,10 +110,7 @@ I am an undergraduate Software Engineering student passionate about building ful
 - Data visualization and analytics dashboards
 - Cloud deployment and continuous integration
 
-I am seeking internship opportunities where I can apply and expand these skills, contribute to impactful projects, and grow as a software engineer.
-
 ---
-
 
 ## Connect with Me
 - GitHub: https://github.com/yourusername
