@@ -2,7 +2,7 @@
 
 ---
 
-## 📚 Project Overview
+## Project Overview
 
 MathMentor is a full-stack Learning Management System (LMS) tailored specifically for managing private mathematics tuition classes for grades 6 to 11. This platform empowers a single admin (the tutor) to manage students, track attendance via QR codes, handle fee payments, record academic progress, and visualize performance data — all in one intuitive dashboard.
 
@@ -10,7 +10,7 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ---
 
-## 🎯 Features
+## Features
 
 ### Admin Capabilities
 - View and manage pending student signup requests (approve/reject).
@@ -30,7 +30,7 @@ This project demonstrates my skills in modern web development, authentication fl
   
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Layer          | Technology               | Purpose                                        |
 |----------------|--------------------------|------------------------------------------------|
@@ -45,7 +45,7 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 ![Architecture Diagram Placeholder](./screenshots/architecture-diagram.png)
 
@@ -58,7 +58,7 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 ### 1. Admin Dashboard  
 ![Admin Dashboard Placeholder](./screenshots/admin-dashboard.png)
@@ -88,7 +88,7 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ---
 
-## 📂 Repository Structure (Private Repo)
+## Repository Structure (Private Repo)
 
 - `/client` – React frontend source code
 - `/server` – Express.js backend API code
@@ -98,21 +98,21 @@ This project demonstrates my skills in modern web development, authentication fl
 
 ---
 
-## 🔐 Accessing the Source Code
+## Accessing the Source Code
 
 The full source code of the MathMentor LMS is currently **private** to protect sensitive data and ensure integrity during ongoing development.
 
 **If you are a recruiter, employer, or collaborator interested in reviewing the codebase, please reach out to me at:**
 
-✉️ **[your-email@example.com]**  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
-📱 **Phone:** +94 XX XXXXXXX
+**[your-email@example.com]**  
+**LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
+**Phone:** +94 XX XXXXXXX
 
 _I am happy to provide private access or share the code upon request._
 
 ---
 
-## 📖 About Me
+## About Me
 
 I am an undergraduate Software Engineering student passionate about building full-stack applications with real-world impact. This project, MathMentor, reflects my skills in:
 
@@ -126,41 +126,11 @@ I am seeking internship opportunities where I can apply and expand these skills,
 
 ---
 
-## ⚙️ How to Run Locally (for authorized users)
 
-> _Note: This is for collaborators with access to the private repo._
+## Connect with Me
+- GitHub: https://github.com/yourusername
+- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: your-email@example.com
 
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:yourusername/mathmentor.git
-   cd mathmentor
-Install dependencies for frontend and backend:
-
-bash
-Copy code
-cd client && npm install
-cd ../server && npm install
-Setup environment variables for MongoDB, Firebase, etc. in .env.
-
-Start backend server:
-
-bash
-Copy code
-npm run dev
-Start frontend app:
-
-bash
-Copy code
-cd ../client
-npm start
-Access the app at http://localhost:3000
-
-🤝 Connect with Me
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://www.linkedin.com/in/your-profile
-
-Email: your-email@example.com
-
-📄 License
+## License
 This project is for personal and portfolio use. Please contact me for collaboration or commercial usage.
