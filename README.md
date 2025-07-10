@@ -1,4 +1,4 @@
-# MathMentor: Custom LMS for Mathematics Tuition Classes (Grades 6–11)
+# MathMentor: LMS for Mathematics Tuition Classes
 
 ---
 
