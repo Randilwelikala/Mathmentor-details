@@ -110,7 +110,7 @@ This project was developed using the **Software Development Life Cycle (SDLC)** 
 The full project code is **private** to protect credentials and maintain academic integrity.
 
 ### 🚑 Contact Me to Request Access:
-- Email: [randilgimantha646@gmail.com](randilgimantha646@gmail.com)
+- Email: randilgimantha646@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/)
 
 ---
