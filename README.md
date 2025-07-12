@@ -129,8 +129,8 @@ I am an **undergraduate Software Engineering student** passionate about developi
 
 ## 💬 Connect with Me
 
-- GitHub: [https://github.com/yourusername](https://github.com/Randilwelikala/Mathmentor-details.git)
-- LinkedIn: [https://www.linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/))
+- GitHub: [github](https://github.com/Randilwelikala/Mathmentor-details.git)
+- LinkedIn: [linkedin]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/))
 - Email: randilgimantha646@gmail.com
 
 ---
