@@ -111,7 +111,7 @@ The full project code is **private** to protect credentials and maintain academi
 
 ### 🚑 Contact Me to Request Access:
 - Email: randilgimantha646@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/randil-welikala-03336b249/)
 
 ---
 
