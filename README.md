@@ -49,7 +49,7 @@ This project was developed using the **Software Development Life Cycle (SDLC)** 
 | Frontend         | React.js + Tailwind CSS           | Component-based SPA with modern responsive UI         |
 | Backend          | Node.js + Express.js              | REST API & server logic                               |
 | Database         | MongoDB Atlas                     | Cloud NoSQL storage for students, marks, fees, etc.   |
-| Authentication   | Firebase Authentication + JWT     | Secure login, session handling, password resets       |
+| Authentication   | Firebase Authentication + JWT + backend logics     | Secure login, session handling, password resets       |
 | QR Attendance    | qrcode + html5-qrcode             | QR code generation and scanning                       |
 | Charts           | Chart.js                          | Visual analytics: marks, attendance, fees             |
 | Deployment       | Vercel (Frontend) + Railway (Backend) | CI/CD, Free Hosting using GitHub Student Pack     |
@@ -109,12 +109,9 @@ This project was developed using the **Software Development Life Cycle (SDLC)** 
 
 The full project code is **private** to protect credentials and maintain academic integrity.
 
-### 🔗 Read Project Documentation:
-[Public Project Docs Repository (README only)](https://github.com/yourusername/mathmentor-docs)
-
 ### 🚑 Contact Me to Request Access:
-- Email: [randilgimantha646@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- Email: [randilgimantha646@gmail.com](randilgimantha646@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/)
 
 ---
 
@@ -132,9 +129,9 @@ I am an **undergraduate Software Engineering student** passionate about developi
 
 ## 💬 Connect with Me
 
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Email: your-email@example.com
+- GitHub: [https://github.com/yourusername](https://github.com/Randilwelikala/Mathmentor-details.git)
+- LinkedIn: [https://www.linkedin.com/in/your-profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/randil-welikala-03336b249/))
+- Email: randilgimantha646@gmail.com
 
 ---
 
